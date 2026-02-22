@@ -14,7 +14,7 @@ En caso de querer contactar conmigo estas son mis redes sociales 😊
         <img loading="lazy" src="https://distreau.com/github.svg" 
     height="40">
     </a> 
-    <a href="www.linkedin.com/in/nizar-azouaoui-saidi-9b1120342" target="_blank">
+    <a href="https://www.linkedin.com/in/NizarAzouaouiSaidi/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="40">
     </a> 
